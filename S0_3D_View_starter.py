@@ -13,7 +13,9 @@ from S2_3dview_analysis import ThreeDimensionViewAnalysis
 from S3_xy_view_z_analysis import ZaxisAnalysis
 
 def main():
-    path = 'E:\\Dropbox\\TAMU_ECEN\\Lab\\My Work\\Python_script\\3d_reconstruction\\3D_view_analysis\\'
+    # Add folder path that includes nine mp4 videos which can generate supplementary figure 10.
+    # For example, path= 'C:\\Download\\3d_reconstruction\\02_3D_View_supplimentary_figure10_data\\'
+    path= 'FILE_PATH_HERE\\'
     
     ifilename = 'a_Proposed_'
     ofilename = 'a_'
