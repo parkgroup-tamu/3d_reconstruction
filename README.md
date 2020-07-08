@@ -39,4 +39,4 @@
 * Written by Woo Seok Kim at Texas A&M University
 * Date: 07/07/2020
 * Revision history
-	- 07/07/2020: Merged all codes and data
+	- 07/07/2020: Merged all code and data, write [README] document.
