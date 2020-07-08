@@ -37,4 +37,6 @@
 	c_rst_3d.png, c_rst_xy_1layer.png, c_rst_xy_2layer.png, c_rst_xy_3layer.png, c_rst_xy_4layer.png, c_rst.csv, c_top.csv, c_side_i.csv, c_side_w.csv
 	
 * Written by Woo Seok Kim at Texas A&M University
-* Created on 07/07/2020
+* Date: 07/07/2020
+* Revision history
+	- 07/07/2020: Merged all codes and data
