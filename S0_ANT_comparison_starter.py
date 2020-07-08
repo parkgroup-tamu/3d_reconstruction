@@ -13,8 +13,10 @@ from S2_topview_analysis import TopViewAnalysis
 from S3_detected_frames_comp import ComparisonPlot
 
 def main():
-    path = 'E:\\Dropbox\\TAMU_ECEN\\Lab\\My Work\\Python_script\\3d_reconstruction\\Ant_performance_comp\\'
-    
+    # Add folder path that includes four mp4 videos which can generate Figure 2(e).
+    # For example, path= 'C:\\Download\\3d_reconstruction\\01_Antenna_comparison_figure2_data\\'
+    path= 'FILE_PATH_HERE\\'
+
     filename = 'Ant1_1W_top'
     Extractxyz.launch(path, filename + ".mp4", filename, 25, 90)
     TopViewAnalysis.launch(path, filename + ".csv", filename + "_rst.csv")
