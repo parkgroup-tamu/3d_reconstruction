@@ -17,9 +17,9 @@ Users should download all codes in the same folder.
 
 	a. Open "S0_ANT_comparison_starter.py"
   
-	b. Edit line 18, path = 'FILE_PATH_HERE\\\'. FILE_PATH means path of the folder which includes 4-video files in 01_Antenna_comparison_figure2_data
+	b. Edit line 18, path = 'FILE_PATH_HERE\\\\'. FILE_PATH means path of the folder which includes 4-video files in 01_Antenna_comparison_figure2_data
   
-  	c. User should insert double back-slashes('\\\') when divide into directories.
+  	c. User should insert double back-slashes('\\\\') when divide into directories.
   
   	d. Run "S0_ANT_comparison_starter.py"
   
@@ -32,9 +32,9 @@ Ant_comparison_plot.png, Ant1_1W_top.csv, Ant1_1W_rst.csv, Ant2_1W_top.csv, Ant2
 
   	a. Open "S0_3D_View_starter.py"
   
-  	b. Edit line 18, path = 'FILE_PATH_HERE\\\'. FILE_PATH means path of the folder which includes 9-video files in 02_3D_View_supplimentary_figure10_data
+  	b. Edit line 18, path = 'FILE_PATH_HERE\\\\'. FILE_PATH means path of the folder which includes 9-video files in 02_3D_View_supplimentary_figure10_data
   
-  	c. User should insert double back-slashes('\\\') when divide into directories.
+  	c. User should insert double back-slashes('\\\\') when divide into directories.
   
   	d. Run "S0_3D_View_starter.py"
   
