@@ -25,7 +25,7 @@ Users should download all codes in the same folder.
   
   	e. If this code run correctly, user can find following files in the data folder.
 	
-     Ant_comparison_plot.png, Ant1_1W_top.csv, Ant1_1W_rst.csv, Ant2_1W_top.csv, Ant2_1W_rst.csv, Ant3_1W_top.csv, Ant3_1W_rst.csv, Ant4_1W_top.csv, Ant4_1W_rst.csv
+	Ant_comparison_plot.png, Ant1_1W_top.csv, Ant1_1W_rst.csv, Ant2_1W_top.csv, Ant2_1W_rst.csv, Ant3_1W_top.csv, Ant3_1W_rst.csv, Ant4_1W_top.csv, Ant4_1W_rst.csv
   
 	
 2. To generate 3D reconstruction figures,
@@ -40,6 +40,6 @@ Users should download all codes in the same folder.
   
   	e. If this code run correctly, user can find following files in the data folder.
 	
-     a_rst_3d.png, a_rst_xy_1layer.png, a_rst_xy_2layer.png, a_rst_xy_3layer.png, a_rst_xy_4layer.png, a_rst.csv, a_top.csv, a_side_i.csv, a_side_w.csv
-     b_rst_3d.png, b_rst_xy_1layer.png, b_rst_xy_2layer.png, b_rst_xy_3layer.png, b_rst_xy_4layer.png, b_rst.csv, b_top.csv, b_side_i.csv, b_side_w.csv
-     c_rst_3d.png, c_rst_xy_1layer.png, c_rst_xy_2layer.png, c_rst_xy_3layer.png, c_rst_xy_4layer.png, c_rst.csv, c_top.csv, c_side_i.csv, c_side_w.csv
+	a_rst_3d.png, a_rst_xy_1layer.png, a_rst_xy_2layer.png, a_rst_xy_3layer.png, a_rst_xy_4layer.png, a_rst.csv, a_top.csv, a_side_i.csv, a_side_w.csv
+	b_rst_3d.png, b_rst_xy_1layer.png, b_rst_xy_2layer.png, b_rst_xy_3layer.png, b_rst_xy_4layer.png, b_rst.csv, b_top.csv, b_side_i.csv, b_side_w.csv
+	c_rst_3d.png, c_rst_xy_1layer.png, c_rst_xy_2layer.png, c_rst_xy_3layer.png, c_rst_xy_4layer.png, c_rst.csv, c_top.csv, c_side_i.csv, c_side_w.csv
