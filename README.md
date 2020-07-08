@@ -1,14 +1,18 @@
 # System Requirements
 - Python 3.7.0 or higher
 - OpenCV-4.1.1 or higher
-- Any Python IDE and OS is fine 
-- Developer used Spyder(Anaconda 3) at Windows 10 with Intel(R)_Core(TM)_i7-7500U_CPU_@_2.70GHz.
-- Another tester used Spyder(Anaconda 3) at Windows 10 with Intel(R)_Core(TM)_i7-4770K_CPU_@_3.50GHz
+- Any Python IDE and OS is available. 
+- This package has been developed the following IDE, OS and CPU:
+	- Spyder(Anaconda 3) at Windows 10 with Intel(R)_Core(TM)_i7-7500U_CPU_@_2.70GHz.
+- This package has been tested the following IDE, OS and CPU:
+	- Spyder(Anaconda 3) at Windows 10 with Intel(R)_Core(TM)_i7-4770K_CPU_@_3.50GHz
+## Python Dependence
+numpy, pandas, matplotlib, Axes3D, itemgetter
 
 # Installation guide
 1. Users should download all video files in two folders; [01_Antenna_comparison_figure2_data] and [02_3D_View_supplimentary_figure10_data]
 2. Users should download all codes in the same folder.
-3. Users should install OpenCV before running codes.
+3. Users should install OpenCV before running codes: pip install opencv.
 * Each step normally takes within 2 minutes but downloading time might be slow depends on network condition.
 
 # 3d_reconstruction demo instructions
@@ -36,7 +40,7 @@
 	b_rst_3d.png, b_rst_xy_1layer.png, b_rst_xy_2layer.png, b_rst_xy_3layer.png, b_rst_xy_4layer.png, b_rst.csv, b_top.csv, b_side_i.csv, b_side_w.csv
 	c_rst_3d.png, c_rst_xy_1layer.png, c_rst_xy_2layer.png, c_rst_xy_3layer.png, c_rst_xy_4layer.png, c_rst.csv, c_top.csv, c_side_i.csv, c_side_w.csv
 	
-* Written by Woo Seok Kim at Texas A&M University
+* Written by Park's lab at Texas A&M University
 * Date: 07/07/2020
 * Revision history
 	- 07/07/2020: Merged all code and data, write [README] document.
